@@ -1,1 +1,5 @@
-/target
+target/
+.DS_Store
+
+/p12/Cargo.lock
+/p12/Cargo.toml
